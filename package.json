@@ -1,0 +1,26 @@
+{
+  "name": "node-webscraper",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zezevazquez/node-webscraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zezevazquez/node-webscraper/issues"
+  },
+  "homepage": "https://github.com/zezevazquez/node-webscraper#readme"
+}
